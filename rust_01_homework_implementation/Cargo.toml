@@ -1,0 +1,6 @@
+[package]
+name = "rust_01_homework_implementation"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
